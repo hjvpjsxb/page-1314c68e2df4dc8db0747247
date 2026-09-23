@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f0f5540fb0a51726fae63958",
+  "owner": "hjvpjsxb",
+  "repo": "page-1314c68e2df4dc8db0747247",
+  "title": "永远云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1314c68e2df4dc8db0747247",
+      "a": "永远云",
+      "b": "机场官网线路发布页",
+      "entity": "永远云",
+      "brand": "永远云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1cdd18864791e5903e9315d4ab129aaf3fa9414fdc49eb8245cec9410a4ad175",
+      "content": {
+        "primary_entity": "永远云",
+        "keyword1": "永远云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，订阅链接一次导入即可同步节点与流量信息。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选定套餐并绑定客户端，即可开始使用永远云的加速线路。",
+          "AI_CLOSING_TITLE": "开始配置订阅",
+          "AI_DESCRIPTION": "，永远云提供基础版、旗舰版与团队版三档订阅，覆盖不同流量与设备数量需求。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并配有 IPLC 专线；团队版每月 1000GB 流量、支持 20 台设备，适合多人共享。按年付可节省两个月费用，订阅链接导入客户端后会同步节点与用量信息。",
+          "AI_FAQ_ANSWER_1": "在订阅管理页面复制订阅链接，粘贴到对应客户的订阅导入功能中即可拉取节点列表。不同客户端的导入入口位置有差异，按其文档操作即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。设备数量按同时在线计算，超出后新设备无法连接。",
+          "AI_FAQ_ANSWER_3": "可以。月付按标价结算，年付按年付价一次性支付，基本相当于十个月的费用使用十二个月。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线，对延迟敏感的游戏和实时应用更友好；基础版为普通线路节点池。若主要用于网页浏览，基础版也能满足日常需求。",
+          "AI_FAQ_ANSWER_5": "流量按自然月重置，未用完部分不结转到下月。可在客户端的用量页面查看当前周期已消耗流量和剩余额度。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量、付费周期与流量使用。",
+          "AI_FAQ_QUESTION_1": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版线路有什么不同？",
+          "AI_FAQ_QUESTION_5": "套餐流量如何计算和重置？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型三个角度，快速判断哪一档订阅更贴合日常使用。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "轻度使用选基础版每月 100GB，重度流媒体与多设备并行选旗舰版每月 300GB，团队共享选团队版每月 1000GB。",
+          "AI_FEATURE_TEXT_2": "按常用设备数量匹配：基础版 3 台、旗舰版 5 台、团队版 20 台，避免因超出限制导致频繁下线。",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付价格更低；旗舰版包含 IPLC 专线，团队版提供 VIP 高带宽节点与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期与线路选档",
+          "AI_GUIDE_INTRO": "三步完成从套餐选择到客户端配置，实际入口以永远云订阅页展示为准。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "永远云提供多档海外加速订阅，基础版、旗舰版与团队版分别对应不同流量与设备数量。选择套餐后，将订阅链接导入对应客户端，即可同步节点信息与用量。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同用量",
+          "AI_HIGHLIGHT_2": "按设备数量灵活选档",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150/年、¥350/年、¥850/年，可按流量与设备数量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数量，在基础版、旗舰版与团队版之间确定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认客户端系统与设备数量符合订阅限制。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，同步节点列表后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "永远云订阅选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nandanjob.cn",
+    "host": "nandanjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "6e6106a4f27517655759a551c45a1a8984857a21bf0374115b347060700508d9",
+    "sitemap.xml": "55933012a8db0218a6b21b1ec0b15fcfdad8cbf5f0ff2f753d93454e5a4b8c0a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "781b6409b7b0ebe06dc71d1afc06a3dc29955126499248242e9e3c608c5d45eb",
+    "robots.txt": "004b971edde541d816d20215efaf276608e3e67dddfb8dbc0bca0c77bf651996",
+    "47526a49b5f102677c53242a19fdc2a2.txt": "79802972d9d5431b20c3a4067358e7fc0b90756770268d37b9f76c01c716b171"
+  },
+  "revision": "f42c33345ef72ac4af30ddb8bef88f3fa99b61d65cc1cc72e7ce9c14f9064ed1"
+}
